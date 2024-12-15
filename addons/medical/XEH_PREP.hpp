@@ -2,8 +2,5 @@ PREP(addDamageToUnit);
 PREP(adjustPainLevel);
 PREP(deserializeState);
 PREP(fullHeal);
-PREP(getBandagedWounds);
-PREP(getOpenWounds);
-PREP(getStitchedWounds);
 PREP(serializeState);
 PREP(setUnconscious);
