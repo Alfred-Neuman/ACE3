@@ -45,6 +45,7 @@
 "Andrea ""AtixNeon"" Verano",
 "Anthariel",
 "Anton",
+"Apricot_ale",
 "Arcanum417",
 "Arkhir",
 "ARV187 aka Spark23",
@@ -185,4 +186,7 @@
 "xrufix",
 "Zakant",
 "zGuba",
-"Zman6258"
+"Zman6258",
+"DartRuffian",
+"KJW",
+"Alfred Neuman"
