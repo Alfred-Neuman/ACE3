@@ -57,12 +57,14 @@
             <Russian>Снять капюшон</Russian>
             <German>Kapuze absetzen</German>
             <Japanese>フードを下ろす</Japanese>
+            <French>Retirer la capuche</French>
         </Key>
         <Key ID="STR_ACE_Wardrobe_hoodRaise">
             <English>Raise Hood</English>
             <Russian>Надеть капюшон</Russian>
             <German>Kapuze aufsetzen</German>
             <Japanese>フードを上げる</Japanese>
+            <French>Mettre la capuche</French>
         </Key>
         <Key ID="STR_ACE_Wardrobe_jacketClose">
             <English>Close jacket</English>
@@ -101,7 +103,7 @@
         </Key>
         <Key ID="STR_ACE_Wardrobe_setting_category_main">
             <English>ACE Wardrobe</English>
-            <French>ACE Armoire</French>
+            <French>ACE Garde-robe</French>
             <Spanish>ACE Ropero</Spanish>
             <Russian>ACE Гардероб</Russian>
             <German>ACE Garderobe</German>
