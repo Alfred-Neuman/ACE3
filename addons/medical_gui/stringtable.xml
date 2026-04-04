@@ -1819,5 +1819,34 @@
             <Chinesesimp>慢性创伤</Chinesesimp>
             <Ukrainian>Хронічна травма</Ukrainian>
         </Key>
+        <Key ID="STR_ACE_Medical_GUI_medicalHintEnabled_DisplayName">
+            <English>Medical Menu Message Enabled</English>
+            <French>Message du menu médical activé</French>
+        </Key>
+        <Key ID="STR_ACE_Medical_GUI_medicalHintEnabled_Description">
+            <English>If enabled, patients will have a customizable message displayed when a player opens their medical menu.</English>
+            <French>Si cette option est activée, un message personnalisable s'affichera pour les patients lorsqu'un joueur ouvrira son menu médical.</French>
+        </Key>
+        <Key ID="STR_ACE_Medical_GUI_medicalHintMessage_defaultMessage">
+            <!-- %1 = medic's name -->
+            <English>%1 is treating you</English>
+            <French>%1 vous traite</French>
+        </Key>
+        <Key ID="STR_ACE_Medical_GUI_medicalHintMessage_DisplayName">
+            <English>Medical Menu Message</English>
+            <French>Message du menu médical</French>
+        </Key>
+        <Key ID="STR_ACE_Medical_GUI_medicalHintMessage_Description">
+            <English>Custom message to display to patients when opening their medical menu.\n%1 will be your name.</English>
+            <French>Message personnalisé à afficher aux patients lorsqu'ils ouvrent leur menu médical.\n%1 correspondra à votre nom.</French>
+        </Key>
+        <Key ID="STR_ACE_Medical_GUI_medicalHintMedicIcon_DisplayName">
+            <English>Medical Menu Medic Icon</English>
+            <French>Icône Médecin Menu Médical</French>
+        </Key>
+        <Key ID="STR_ACE_Medical_GUI_medicalHintMedicIcon_Description">
+            <English>Image path to display in the medical hint if the player is a medic.</English>
+            <French>Chemin d'accès à l'image à afficher dans l'astuce médicale si le joueur est un médecin.</French>
+        </Key>
     </Package>
 </Project>
